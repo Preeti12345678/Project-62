@@ -1,0 +1,20 @@
+
+body{
+    text-align: center;
+}
+#myCarousel{
+    background-color:azure;
+    
+}
+#myCarousel img{
+    height: 1000;
+    margin-top: 35px;
+    width: 100px;
+
+}
+.carousel-inner p{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color:black;
+    font-size: 20px;
+}
